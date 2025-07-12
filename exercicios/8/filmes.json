@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "genres": ["drama", "history", "politics"],
+      "name": "Ainda Estou Aqui",
+      "recommended_age": 16,
+      "released_year": 2024,
+      "description": "Uma mulher casada com um ex-político durante a ditadura militar no Brasil é obrigada a se reinventar e a traçar um novo destino para si e os filhos depois que a vida de sua família é impactada por um ato violento e arbitrário."
+    },
+    {
+      "genres": ["drama", "crime"],
+      "name": "Vitória",
+      "released_year": 2025,
+      "recommended_age": 17,
+      "description": "Baseado em uma história real, o filme conta a história de uma senhora de 80 anos que, sozinha, desmantelou um esquema de tráfico de drogas em Copacabana."
+    },
+    {
+      "genres": ["drama", "crime"],
+      "name": "Cidade de Deus",
+      "released_year": 2002,
+      "recommended_age": 16,
+      "description": "Os caminhos de duas crianças divergem nas favelas do Rio, enquanto um se esforça para se tornar um fotógrafo e o outro um chefe do tráfico."
+    },
+    {
+      "genres": ["drama", "crime"],
+      "name": "Scarface",
+      "released_year": 1983,
+      "recommended_age": 19,
+      "description": "Em 1980, um imigrante cubano se torna o maior traficante de cocaína de Miami."
+    },
+    {
+      "genres": ["biography", "drama", "comedy"],
+      "name": "O Lobo de Wall Street",
+      "recommended_age": 19,
+      "released_year": 2013,
+      "description": "Baseada na verdadeira história de Jordan Belfort, desde sua ascensão como corretor de valores até a sua queda e envolvimento no crime e corrupção com o governo."
+    }
+  ]
+}
