@@ -1,12 +1,7 @@
 import os
 import json
 
-env = os.environ
-kv = {}
-
-for key in env:
-    kv[key] = env[key]
-
-with open(file="current-env.json", mode="w") as file:
-    # file.write(str(kv))
-    file.write(json.dumps(kv, indent=2))
+with open(file="./current-env.json", mode="w") as file:
+  file.write(json.dumps(dict(os.environ), indent=2))
+  # ou se for apenas os nomes:
+  # file.write(list(dict(os.environ).keys()), indent=2))
