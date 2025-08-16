@@ -74,10 +74,3 @@ match tipo:
       elif unit_convert == 'minutos':
         final = tempo/60
         print(f"{tempo} segundos são {final} minutos")
-
-
-
-
-
-
-
